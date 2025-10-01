@@ -32,6 +32,14 @@ This project focused on analyzing a **Sales dataset** using **Power BI** with ad
 - **Data Modeling Skills** (Hierarchies, Many-to-Many handling, Optimized relationships)  
 - **Data Visualization & Storytelling**
 
+## 📌 Outcomes
+- Developed a **scalable and efficient Power BI data model** tailored for sales analysis.  
+- Improved **report usability and performance** with optimized table/column configurations.  
+- Delivered **interactive dashboards** that empower stakeholders to explore KPIs independently.  
+- Demonstrated strong skills in **Power BI data modeling, analytics, and visualization**.  
+
+---
+
 ## Dashboards view and link 
 <img width="2024" height="1124" alt="image" src="https://github.com/user-attachments/assets/c56b1e32-855c-4dab-b785-2523a2422ded" />
 <img width="1888" height="1124" alt="image" src="https://github.com/user-attachments/assets/1fd7de89-ffe2-4cb7-9a84-6ee4805ed5a1" />
@@ -42,10 +50,4 @@ This project focused on analyzing a **Sales dataset** using **Power BI** with ad
 
 
 ---
-
-## 📌 Outcomes
-- Developed a **scalable and efficient Power BI data model** tailored for sales analysis.  
-- Improved **report usability and performance** with optimized table/column configurations.  
-- Delivered **interactive dashboards** that empower stakeholders to explore KPIs independently.  
-- Demonstrated strong skills in **Power BI data modeling, analytics, and visualization**.  
 
